@@ -1,3 +1,11 @@
-Este n„o È um cÛdigo original, o mesmo foi retirado do canal "DarkCode" do YouTube.
-Todos os direitos pertencem ao criador deste conte˙do.
-A clonagem e repositÛrio È apenas para aprendizado e n„o ser· utilizado para fins lucrativos.
+PORTUGU√äS - BR
+
+Este n√£o √© um c√≥digo original, o mesmo foi retirado do canal "DarkCode" do YouTube.
+Todos os direitos pertencem ao criador deste conte√∫do.
+A clonagem e reposit√≥rio √© apenas para aprendizado e n√£o ser√° utilizado para fins lucrativos.
+
+ENGLISH
+
+This is not an original code, it was taken from YouTube's "DarkCode" channel.
+All rights belong to the creator of this content.
+The cloning and repository is for learning only and will not be used for profit.
